@@ -1,0 +1,14 @@
+git status
+
+git add .
+
+git commit -m "I am UoO"
+
+git push -u origin master
+
+
+# new computer
+git config --global user.email rafacsantana@gmail.com
+
+git config --global user.name "Rafa Santana"
+
