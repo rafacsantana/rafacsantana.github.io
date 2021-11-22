@@ -2,7 +2,7 @@ git status
 
 git add .
 
-git commit -m "I am UoO"
+git commit -m "new free run"
 
 git push -u origin master
 
