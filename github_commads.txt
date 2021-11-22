@@ -12,3 +12,7 @@ git config --global user.email rafacsantana@gmail.com
 
 git config --global user.name "Rafa Santana"
 
+
+my token
+
+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
