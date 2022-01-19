@@ -13,8 +13,8 @@ git config --global user.email rafacsantana@gmail.com
 git config --global user.name "Rafa Santana"
 
 
-my token
+new token  split into two. combine both lines to have one
 
-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
+ghp_QKABMlbejbc1q7th2
 
-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
+FgmC3SbMZxHcW0ugRMH
