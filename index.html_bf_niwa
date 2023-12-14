@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Rafa Santana</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Rafa Santana</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/rafa.jpg" alt="">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#current_work">Current work</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#phd_work">PhD study</a>
+        </li>
+        <!--
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#awards">Awards and Honours</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        -->
+      </ul>
+    </div>
+  </nav>
+  
+  <div class="container-fluid p-0">
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">Rafa
+          <span class="text-primary">Santana</span>
+        </h1>
+        <div class="subheading mb-5">Physical Oceanographer
+          <div> <a href=""></a></a> 
+          <a href="rafacsantana@gmail.com">rafacsantana@gmail.com</a> 
+          </div>
+          <div> <a href="For peer-reviewed publications:"></a>For peer-reviewed publications:</a>
+          </div>
+          <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3502-0031" href="https://orcid.org/0000-0002-3502-0031" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-3502-0031</a></div>
+
+          </div>
+
+          <p class="lead mb-5">I am a physical oceanographer with expertise in the dynamics of coastal, sub- and mesoscale ocean variability. My focus is to improve our understanding of ocean and sea-ice dynamics using observations, numerical modelling, and data assimilation. Currently, I am a research fellow at <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-physics.html/">The University of Auckland</a> working on the Scale-Aware Sea Ice Project <a href="https://sasip-climate.github.io/">(SASIP)</a>. At SASIP, my research targets at understanding ocean-ice interactions in Antarctic using the sea-ice model <a href="https://tc.copernicus.org/articles/10/1055/2016/">neXtSIM</a>. An example of neXtSIM's application is shown in the video below (credit: <a href="https://www.nersc.no/">Nansen Environmental and Remote Sensing Center</a>).</p>
+       
+          <!--          
+
+          I hold MSc and BSc degrees in Physical Oceanography from the Federal University of Bahia, Brazil
+
+
+              </div>
+            </div>
+        </section>
+
+          <hr class="m-0">
+
+          <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="current_work">
+            <div class="w-100">
+              <h2 class="mb-5">Current work</h2>
+          -->
+
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+          <iframe width="1120" height="630" src="https://www.youtube.com/embed/cFfQsu6xWZ4" title="neXtSIM sea ice model simulation in Fram Strait" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>Sea ice concentration in Fram Strait simulated by the Lagrangian sea ice model neXtSIM. Credit: Nansen Environmental and Remote Sensing Center. </i>
+
+
+        </section>
+
+          <!--
+          <hr class="m-0">
+           -->
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="current_work">
+          <div class="w-100">
+
+
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-between"> <!-- mb-2"-->
+            <div class="resume-content">
+              <h2 class="mb-5">Current work</h2>
+
+              <p class="mb-2"></p> <b> Coming soon ...</b> 
+
+              <!--p class="mb-2"></p> <b> More coming soon ... <b-->
+              <p class="mb-2"></p> <b> Can't wait? Get in touch via email rafael.santana@auckland.ac.nz, rafacsantana@gmail.com or</b> 
+
+              <div class="social-icons">
+                <a href="https://www.linkedin.com/in/rafael-santana-a4701ba5/">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+                <a href="https://github.com/rafacsantana">
+                  <i class="fab fa-github"></i>
+                </a>
+                <a href="https://twitter.com/rafac_santana">
+                  <i class="fab fa-twitter"></i>
+                </a>
+                <!--          
+                <a href=""https://www.facebook.com/rafael.costa.santana9"">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+                -->          
+              </div>
+            </div>
+          </div>
+
+
+        </section>
+
+          <!--
+          <hr class="m-0">
+           -->
+
+          <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="phd_work">
+            <div class="w-100">
+              <h2 class="mb-5">east auckland current and cross shelf exchange</h2>
+
+          <p class="mb-2"></p> <b> A year in the life of the East Auckland Current (EAuC)</b> 
+          <p class="mb-0"></p>The first chapter of my thesis is summarised in the article "Mesoscale and wind‑driven intra‑annual variability in the East Auckland Current" freely available at <a href="https://www.nature.com/articles/s41598-021-89222-3">https://www.nature.com/articles/s41598-021-89222-3</a> . It tells about a year in the life of the EAuC. There, we study mesoscale eddies (ocean cylinders of aprox. 100 km diameter) that dominated the circulation for a total of 260 days and the EAuC which was present for 110 days. Winds played an import role by generating variability shorter than 30 days in the velocity and temperature. </p>
+          
+           <p><a href="https://www.nature.com/articles/s41598-021-89222-3">
+           <img width="1300" src="fig_maps.png" alt="" />
+           </a></p>
+          <p class="mb-2"></p> <i>Maps of Sea Surface Temperature (SST) spatial anomaly (coloured shade) (mean value in black), geostrophic (black arrows) and daily averaged in situ velocities (coloured arrows as in Fig. 1a) on (a) 11/5/2015, (b) 7/7/2015, (c) 26/8/2015, (d) 2/11/2015, (e) 6/1/2016, and (f) 18/4/2016 showing the mesoscale structures A1, C1, EAuC, A1, A2/C2, and C2, respectively.</i>
+
+          <p class="mb-0"></p></p>
+          <p class="mb-2"></p> <b> Modelling the East Auckland Current </b>
+          <p class="mb-0"></p>Surface and localised in situ observations are not enough to understand the full dynamics in the region. That's why we use numerical models that can provide daily 3D pictures of the oceans. In the figure below, we compare results from a model and observations from satellites and moored instruments. We can see that the model does a good job simulating the temperature structure. However, mesoscale eddy variability is not well represented. </p>
+
+          <img src="map-ssh-2015-2016-2.gif" alt="Left: Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right: Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map." /> 
+          <p class="mb-2"></p> <i>Figure caption: Left - Map of Sea Surface Height (SSH) (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right - Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map. </i>
+
+          <p class="mb-2"></p> <b> Data assimilation is needed </b>
+          <p class="mb-0"></p> Mesoscale eddies are generated by instabilities which are unpredictable. Therefore, we need to incorporate satellite-derived and in situ data into the model to constrain its solution closer to observed values. This process is called data assimilation and aims to solve the equation below, which considers both model error and representativeness errors present in the observations (combined into <b>K</b>).</p>
+
+           <p><a href="https://en.wikipedia.org/wiki/Data_assimilation">
+           <img src="oceanpredict-ecmwf.jpg" alt="" /> 
+           </a></p>
+          <p class="mb-0"></p> <i> Figure source: Joint ECMWF/OceanPredict workshop on Advances in Ocean Data Assimilation. </i>
+
+          <p class="mb-0"></p></p>
+          <p class="mb-2"></p> <b> Data Assimilation in the East Auckland Current </b>
+          <p class="mb-0"></p>Remotely-sensed and in situ observations were assimilated into the model (ROMS) using 4D-VAR. Sea surface height (SSH) and temperature (SST) and mooring temperature, salinity, velocity from stations M3, M4, and M5 were assimilated. The video below shows that the simulation on the right (ASFUVTS-h) better represents the mesoscale eddies in comparison to the freely evolving simulation on the left (Control-JRA55do). </p>
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+          <iframe width="1120" height="630" src="https://www.youtube.com/embed/kitfzB9F5JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>Video caption: Model comparison: freely evolving simulation (Control-JRA55d0 - left) model with data assimilation of SSH, SST, velocity, temperature and salinity from moorings (M3-M5). Variables compared are Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). </i>
+
+          <!--          
+          <img src="map-ssh-2015-2016-2.gif" alt="Left: Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right: Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map." /> 
+          <p class="mb-2"></p> <b>Figure caption: Left - Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right - Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map. </b>
+          <p class="mb-0"></p></p>
+
+          -->
+
+      </div>
+
+    </section>
+
+
+    </section>
+
+
+  </div>
+
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+
+</body>
+
+</html>
