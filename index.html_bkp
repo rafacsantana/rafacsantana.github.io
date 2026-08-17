@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Rafa Santana </title>
+  <title>Rafa Santana</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -27,9 +27,9 @@
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
-      <span class="d-block d-lg-none">Rafael Santana</span>
+      <span class="d-block d-lg-none">Rafa Santana</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/rafa.jpg" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/santanarc.jfif" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -41,11 +41,15 @@
           <a class="nav-link js-scroll-trigger" href="#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+          <a class="nav-link js-scroll-trigger" href="#current_work">Coastal work</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#talks_events">Talks and Events</a>
+          <a class="nav-link js-scroll-trigger" href="#phd_work">Ocean modelling and data assimilation</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#uoa_work">Polar science</a>
+        </li>
+        <!--
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#awards">Awards and Honours</a>
         </li>
@@ -58,370 +62,228 @@
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
         </li>
+        -->
       </ul>
     </div>
   </nav>
   
   <div class="container-fluid p-0">
-
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
       <div class="w-100">
-        <h1 class="mb-0">Rafael
+        <h1 class="mb-0">Rafa
           <span class="text-primary">Santana</span>
         </h1>
         <div class="subheading mb-5">Physical Oceanographer
-          <div> <a href="Contact"></a>Contact</a> -
-          <a href="rafacsantana@gmail.com">rafacsantana@gmail.com</a> 
+          <div> <a href=""></a></a> 
+          <a href="rafael.santana@niwa.co.nz">rafael.santana@niwa.co.nz</a> 
+          </div>
+          <div> <a href="For peer-reviewed publications:"></a>For peer-reviewed publications:</a>
           </div>
           <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3502-0031" href="https://orcid.org/0000-0002-3502-0031" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">0000-0002-3502-0031</a></div>
 
-        </div>
-          <p class="lead mb-5">In 2022, I graduated as a PhD in Marine Science and Mathematics at the University of Otago and the National Institute of Water and Atmospheric Research <a href="https://niwa.co.nz/coasts-and-oceans/research-projects">(NIWA)</a>. My PhD focuses on understanding drivers of variability in the East Auckland Current (EAuC) and its impact on the shelf-slope connectivity and carbon export. I hold an MSc and BSc degree in Physical Oceanography from the Federal University of Bahia, Brazil.  </p>
+          </div>
 
-          <!--          
-          <p class="mb-2"></p> <b> Thesis Project in Video </b>
-          <p class="mb-0"></p>Sometimes a quick video is better than a long text. So check the video I have made for the <a href="https://www.canterbury.ac.nz/library/uc-library-news/2020/visualise-your-thesis-competition.html">2020 Visualise Your Thesis</a> competition in the local heat of my University. </p>
+	  <p class="lead mb-5">I am a physical oceanographer with expertise in the dynamics of coastal and open ocean variability from equatorial to polar regions (e.g., Santana et al., <a href="10.1007/s12237-017-0329-8">2018</a>, <a href="10.2112/jcoastres-d-17-00044.1">2019</a>, <a href="https://www.nature.com/articles/s41598-021-89222-3">2021</a> and <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024MS004584?af=R">2025</a>). My focus is to improve our understanding of ocean variability using different observational platforms, numerical modelling, and data assimilation (EnOI and 4D-Var) (e.g., Santana et al., <a href="https://link.springer.com/article/10.1007/s10236-019-01307-w">2020</a> and <a href="https://gmd.copernicus.org/articles/16/3675/2023/">2023</a>). I work at <a href="https://www.earthsciences.nz/">Earth Sciences New Zealand</a>, where my research targets at understanding past and future ocean conditions to increase our resilience to extreme events and optmise productivity/operations in marine environments. An example of my work is shown in the video below, where waves generated by a large storm hit the southeast region of Aotearoa New Zealand causing inundation in coastal areas. The waves were simulated using <a href="https://github.com/NOAA-EMC/WW3">Wave Watch 3</a> forced by in-house atmospheric forecasting models</a>. More details about this work can be found on Santana et al., <a href="https://gmd.copernicus.org/preprints/gmd-2024-110/">(2025)</a>   
+        
+          <iframe width="1120" height="630" src="https://www.youtube.com/embed/uJeDBtVydys" title="Significant Wave Height in metres (Hsig) and winds (black arrows) during Tropical Cyclone Harold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>Maps of Significant Wave Height in metres (Hsig, rainbow shade and white arrows) between 26th and 30th of June 2021. White arrows indicate te magnitude and direction of the wave height.</i>
 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/ONQqUUQMrPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          -->
-          <p class="mb-2"></p> <b> Thesis motivation and project </b>
-          <p class="mb-0"></p>Understanding spatial and temporal variability in the ocean is crucial for successful management of the marine environment. This is particularly so in the New Zealand region, as it is one of the largest exclusive economic zones in the globe and has numerous social and industrial activities concentrated over the continental shelf (Zeldis et al., 2004). The East Auckland Current (EAUC) is a large scale boundary current adjacent to the New Zealand northeastern continental shelf. Despite its regional importance, the drivers of oscillations in the EAUC are not well understood. In this project, a data-assimilative numerical modelling study will be undertaken to evaluate and understand the dominant mechanisms that control the EAUC variability and its influence on the continental shelf circulation and water properties (e.g. temperature, salinity, and chlorophyll). To improve simulations over the New Zealand northeastern continental shelf, a methodology will be developed to assimilate observations from an autonomous ocean glider. This knowledge is of utmost importance for coastal management as physical processes can greatly influence marine ecosystem variability (Zeldis et al., 2004).</p>
 
-          <p class="mb-0"></p>The first chapter of my thesis is summarised in the article "Mesoscale and wind‑driven intra‑annual variability in the East Auckland Current" freely available at https://www.nature.com/articles/s41598-021-89222-3 . It tells about a 1 year in the life of the EAuC. There we saw that mesoscale eddies (ocean cylinders of 100 km diameter) dominated that circulation for 260 and the EAuC was present for 110 days. Winds played an import role by adding variability shorter than 30 days in the velocities and temeprature. </p>
-
-          <p class="mb-0"></p>Despite all the findings, surface and in situ observations are enough to understand the full dynamics of the region. That's why we use numerical models that can provide us with hourly 3D pictures of the oceans. In the figure below, we compare results from a model and observations from satellites and moorred instruments.  We can see that the model does a good job when we have the EAuC (15/07 to 02/11) and large mesoscale eddies around but it lacks quality when smaller eddies are passing by. Therefore, the next step of my project is to assimilate satellite-derived and in situ observations to contrains the model closer to values that are observed. This processed is called data assimilation and considers both model error and representativeness errors present in the observations.</p>
-
-          <img src="map-ssh-sec-temp-2015-2016.gif" alt="Left: Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right: Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map." /> 
-          <p class="mb-2"></p>Figure caption: Left - Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right - Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map. </p>
-
-          <p class="mb-2"></p> <b> Stay in Touch </b>
+          <!--p class="mb-2"></p> <b> More coming soon ... <b-->
+          <p class="mb-2"></p> <b> Are you interested to talk about some of these projects and/or new ideas? Get in touch via email rafael.santana@niwa.co.nz or the platforms below: </b> 
 
           <div class="social-icons">
-          <a href="https://www.linkedin.com/in/rafael-santana-a4701ba5/">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          <a href="https://github.com/rafacsantana">
-            <i class="fab fa-github"></i>
-          </a>
-          <a href="https://twitter.com/rafac_santana">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#">
-            <i class="fab fa-facebook-f"></i>
-          </a>
-        </div>
-      </div>
+            <a href="https://www.linkedin.com/in/rafael-santana-a4701ba5/">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://github.com/rafacsantana">
+              <i class="fab fa-github"></i>
+            </a>
+            <a href="https://twitter.com/rafac_santana">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <!--          
+            <a href=""https://www.facebook.com/rafael.costa.santana9"">
+              <i class="fab fa-facebook-f"></i>
+            </a>
+            -->          
+          </div>
+          <!--          
+
+          I hold MSc and BSc degrees in Physical Oceanography from the Federal University of Bahia, Brazil
+
+
+              </div>
+            </div>
+        </section>
+
+          <hr class="m-0">
+
+          <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="current_work">
+            <div class="w-100">
+              <h2 class="mb-5">Current work</h2>
+          -->
+
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+
+
+        </section>
+
+          <!--
+          <hr class="m-0">
+           -->
+
+        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="current_work">
+          <div class="w-100">
+
+
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-between"> <!-- mb-2"-->
+            <div class="resume-content">
+              <h2 class="mb-5">Coastal Work</h2>
+
+          	  <p class="lead mb-5">Another example of my work is shown in the video below, where the impact of waves generated by the Tropical Cyclone Harold was studied using <a href="https://swanmodel.sourceforge.io/">SWAN</a> wave model forced by winds from the <a href="https://github.com/CyprienBosserelle/TCwindgen">Tropical Cyclone wind generator (TCwindgen)</a> and the <a href="https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5#:~:text=ERA5%20is%20the%20fifth%20generation,Service%20(C3S)%20at%20ECMWF.">European Reanalysis 5 (ERA5)</a>.   
+        
+              <iframe width="1120" height="630" src="https://www.youtube.com/embed/bz75iU36TAQ" title="Significant Wave Height in metres (Hsig) and winds (black arrows) during Tropical Cyclone Harold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>Left: maps of Significant Wave Height in metres (Hsig, rainbow shade and white arrows) and winds (black arrows) during Tropical Cyclone Harold. Right: timeseries at four different locations from the SWAN model forced by TCWindgen and ERA5.</i>
+
+              <p class="mb-2"></p> <b> Joint-probability analysis of extreme events</b>
+          	  <p class="lead mb-5">Extreme weather events normally impact coastal regions with compounded effects. For instance, Cyclone Gabrielle hit New Zealand's North Island generating large rainfall, river flow and sea levels. We estimated the joint-return period of such an event for Whangārei region (figure below) using the joint-probability method proposed by <a href="https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9868.2004.02050.x">Heffernan and Tawn (2004)</a>.   
+
+              <img  width="800"  src="hatea_river_flow_water_level_joint_probability.png" alt="" /> 
+              <p class="mb-2"></p> <i>Figure caption: Joint-Probability analysis between sea level and rainfall (top), and sea level and river flow in Whangārei region. Red dots represent measured data; grey dots represent 20,000-years of simulated data, dashed lines represent joint-probability contours for 63, 10, 5, 2, 1, 0.5, 0.2, 0.1% annual exceedance probability (AEP), from largest (most frequent) AEP on the inside to smallest (least frequent) AEP on the outside. The green square, blue diamond, and purple triangle represent the combination of the 1% AEP rainfall (mm/day) and mean higher high water (MHHW), 94th percentile of mean high water springs (MHWS-6), and 63% AEP (1-year return period) sea level. Cyclone Grabrielle (red circle) and the July 2020 flood (blue circle) are highlighted in the plots. Sea levels are presented in metres in relation to NZVD2016.  </i>
+
+            </div>
+          </div>
+
+
     </section>
+        </section>
 
-    <!--          
+          <!--
+          <hr class="m-0">
+           -->
 
-    <hr class="m-0">
+          <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="phd_work">
+            <div class="w-100">
+              <h2 class="mb-5">east auckland current and cross shelf exchange</h2>
 
+          <p class="mb-2"></p> <b> A year in the life of the East Auckland Current (EAuC)</b> 
+          <p class="mb-0"></p>In 2022, I graduated as a PhD in Marine Science and Mathematics at the <a href="https://www.otago.ac.nz/marinescience"> University of Otago</a> in conjunction with the <a href="https://niwa.co.nz">National Institute of Water and Atmospheric Research (NIWA)</a>. My PhD focuses on understanding drivers of variability in the East Auckland Current (EAuC) and its impact on the shelf-slope connectivity and carbon export. The first chapter of my thesis is summarised in the article "Mesoscale and wind‑driven intra‑annual variability in the East Auckland Current" freely available at <a href="https://www.nature.com/articles/s41598-021-89222-3">https://www.nature.com/articles/s41598-021-89222-3</a> . It tells about a year in the life of the EAuC. There, we study mesoscale eddies (ocean cylinders of aprox. 100 km diameter) that dominated the circulation for a total of 260 days and the EAuC which was present for 110 days. Winds played an import role by generating variability shorter than 30 days in the velocity and temperature. </p>
+          
+           <p><a href="https://www.nature.com/articles/s41598-021-89222-3">
+           <img width="1120" src="fig_maps.png" alt="" />
+           </a></p>
+          <p class="mb-2"></p> <i>Maps of Sea Surface Temperature (SST) spatial anomaly (coloured shade) (mean value in black), geostrophic (black arrows) and daily averaged in situ velocities (coloured arrows as in Fig. 1a) on (a) 11/5/2015, (b) 7/7/2015, (c) 26/8/2015, (d) 2/11/2015, (e) 6/1/2016, and (f) 18/4/2016 showing the mesoscale structures A1, C1, EAuC, A1, A2/C2, and C2, respectively.</i>
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
-      <div class="w-100">
-        <h2 class="mb-5">Interests</h2>
-        <p>Theoretical Ecology. Applied Mathematics in Ecology. Science Popularization </p>
-        <p> If you can't find me in the lab, that's surely because I'm enjoying the outdoors. You can find me most of the time along the coast surfing or snorkelling. If I'm not there as well, you probably should try by the mountains where I enjoy hiking, rock climbing, mountain biking or camping. Yep I'm living the dream in NZ!</p>
-        <p class="mb-0">When forced indoors by the weather, I enjoy reading books/magazines or watching docos about everything that makes me learn about anything. I guess being curious in Science is very important, but being curious in Life is even more important and needed.</p>
-        <p class="mb-0">If I'm not in the lab or on the outdoors, I'm obviously with friends or other Sapiens fellows doing a social activity like drinking beers or chating about everything chatable. I guess it's important to have a good time together while we're here, so I'm looking forward meeting you!</p>
-      </div>
-    -->
+          <p class="mb-0"></p></p>
+          <p class="mb-2"></p> <b> Modelling the East Auckland Current </b>
+          <p class="mb-0"></p>Surface and localised in situ observations are not enough to understand the full dynamics in the region. That's why we use numerical models that can provide daily 3D pictures of the oceans. In the figure below, we compare results from a model and observations from satellites and moored instruments. We can see that the model does a good job simulating the temperature structure. However, mesoscale eddy variability is not well represented. </p>
 
-    </section>
- <!-- To embed an app -->
- <!--    <iframe src="https://frantoto.shinyapps.io/HaurakiGulf_Ebed_Trends_Clustering/" width="100%" height="400px"></iframe> -->
+          <img width="1120" src="map-ssh-2015-2016-2.gif" alt="Left: Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right: Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map." /> 
+          <p class="mb-2"></p> <i>Figure caption: Left - Map of Sea Surface Height (SSH) (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right - Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map. </i>
 
-    <!--          
-    <hr class="m-0">
+          <p class="mb-2"></p> <b> Data assimilation is needed </b>
+          <p class="mb-0"></p> Mesoscale eddies are generated by instabilities which are unpredictable. Therefore, we need to incorporate satellite-derived and in situ data into the model to constrain its solution closer to observed values. This process is called data assimilation and aims to solve the equation below, which considers both model error and representativeness errors present in the observations (combined into <b>K</b>).</p>
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="talks_events">
-      <div class="w-100">
-        <h2 class="mb-5">Talks and Events</h2>
-        <p> Science is amazing and passionating me. And talking about Science is crucial. Throughout my PhD, I am willing to share my research within different audience, from scientists to the the general public. Here is a collection of my past and incoming talks.  </p>
- 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">New Zealand Marine Science Society Conference - <a href="https://nzmss.org/"> NZMSS</a> </h3>
-            <div class="subheading mb-3"> Theme: “Titiro whakamuri, kōkiri whakamua” (looking back to move forward) - Tauranga Moana, Aotearoa/New Zealand</div>
-            <div> Scientific Presentation: National Trends of Benthic Light Availability for Kelp Forests Using Satellite Imagery</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">5-8 July 2021 </span>
-          </div>
-        </div>
+           <p><a href="https://en.wikipedia.org/wiki/Data_assimilation">
+           <img src="oceanpredict-ecmwf.jpg" alt="" /> 
+           </a></p>
+          <p class="mb-0"></p> <i> Figure source: Joint ECMWF/OceanPredict workshop on Advances in Ocean Data Assimilation. </i>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Marine Geological and Biological Habitat Mapping Conference - <a href="http://geohab.org/"> GeoHab</a> </h3>
-            <div class="subheading mb-3">Asia and Pacific Node - Online Conference</div>
-            <div> Scientific Presentation: Estimating Benthic Light from Satellite and Implications for Kelp Forests</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">11 May 2021 </span>
-          </div>
-        </div>
+          <p class="mb-0"></p></p>
+          <p class="mb-2"></p> <b> Data Assimilation in the East Auckland Current </b>
+	  <p class="mb-0"></p>Remotely-sensed and in situ observations were assimilated into the model (ROMS) using 4D-VAR. Sea surface height (SSH) and temperature (SST) and mooring temperature, salinity, velocity from stations M3, M4, and M5 were assimilated. The setup and validation of these and other experiments are shown in <a href="https://gmd.copernicus.org/articles/16/3675/2023/">Santana et al., (2023) </a>. The video below shows that the simulation on the right (ASFUVTS-h or ASFUVTS-2days in Santana et al., 2023) better represents the mesoscale eddies in comparison to the freely evolving simulation on the left (Control-JRA55do). </p>
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+          <iframe width="1120" height="630" src="https://www.youtube.com/embed/kitfzB9F5JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>Model comparison: freely evolving simulation (Control-JRA55d0 - left) model with data assimilation of SSH, SST, velocity, temperature and salinity from moorings (M3-M5). Variables compared are Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). </i>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Annual Biology Conference - <a href="https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/annual-biology-conference/">ABC</a> </h3>
-            <div class="subheading mb-3">University of Canterbury, NEW ZEALAND</div>
-            <div> Scientific Presentation: Estimating Benthic Light from Satellite and Implications for Kelp Forests - <a href="https://www.canterbury.ac.nz/media/documents/oexp-science/biological-science/abc/ABC-Abstract-book-2020.pdf"> Book of abstracts</a>  </div>
-            <div> Session Chair Prize</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">22 October 2020 </span>
-          </div>
-        </div>
+          <!--          
+          <img src="map-ssh-2015-2016-2.gif" alt="Left: Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right: Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map." /> 
+          <p class="mb-2"></p> <b>Figure caption: Left - Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right - Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map. </b>
+          <p class="mb-0"></p></p>
 
-        <p> I am trying as much as I can to get involved in side projects that includes popularizing or using Science in Society. Here is a list of projects I have been fortunate to get involved into.  </p>
+          -->
+          <p class="mb-0"></p></p>
+          <p class="mb-2"></p> <b> Eddy driven cross-shelf in the East Auckland Current system</b>
+	  <p class="mb-0"></p>Cross-shelf flows are ten times smaller than along shelf currents. Processes that promote cross-shelf exchange play an important role in renovation shelf waters and exporting material to the deep ocean. In <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JC021601">Santana et al., (2025) </a>, we used an eddy tracking algorithm to track eddies formed on the continental shelf (coastal eddies) to see their impact on generating cross-shelf exchange. We see that some eddies travel offshore while trapping river tracers (example: organic carbon) and may deposit in the deep ocean (video below). </p> 
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+	  <iframe width="1120" height="630" src="https://www.youtube.com/embed/hYxoMW2ErUo" title="NoDA map and cross-section of coastal eddies (blue tracks), river tracer (green shade) and currents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	  <p class="mb-2"></p> <i>Left: Map of river tracer (green shade) and coastal eddies' tracks (blue lines). Right: cross-section of river tracer (green shade) along the magenta line in the map. </i> 
 
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">TakiWaehere NZ GeoSpatial Hackathon - <a href="https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon/"> TakiWaehere </a> </h3>
-            <div class="subheading mb-3"> National Event, NEW ZEALAND - NZ Space Agency - MBIE - MAXAR - NZ Universities </div>
-            <div> Project: Seaside Site SEALection </div>
-            <div> Our project is a coastal classification tool that automatically identifies appropriate seal habitat using very high resolution satellite imagery. The application displays an “attractiveness” score for each site on the image, which takes into consideration landscape features such as distance from cliffs and beach surface area, as well as historical presence/absence of seals at that site. The user will also add to the validity of the application by feeding in additional observation data, opening it to citizen science application.</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">17-18 April 2021 </span>
-          </div>
-        </div>
-
-
-      </div>
-    </section>
-
-
-    <hr class="m-0">
-
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
-      <div class="w-100">
-        <h2 class="mb-5">Awards and Honours</h2>
-        <p> Always feels good to get rewarded.  </p>
- 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0"> Conference Travel Grant </h3>
-            <div class="subheading mb-3"> School of Biological Sciences - University of Canterbury </div>
-            <div> Contestable fund. </div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2021 </span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">TakiWaehere NZ GeoSpatial Hackathon - <a href="https://www.mbie.govt.nz/science-and-technology/science-and-innovation/international-opportunities/new-zealand-r-d/innovative-partnerships/takiwaehere-the-geospatial-hackathon/"> TakiWaehere </a> </h3>
-            <div class="subheading mb-3"> National Event, NEW ZEALAND - NZ Space Agency - MBIE - MAXAR - NZ Universities </div>
-            <div> 3rd Place at local Uni heat. </div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2021 </span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Annual Biology Conference - <a href="https://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/annual-biology-conference/">ABC</a> </h3>
-            <div class="subheading mb-3">University of Canterbury, NEW ZEALAND</div>
-            <div> Session Chair Prize</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"> 2020 </span>
-          </div>
-        </div>
-
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Vizualise Your Thesis - <a href="https://www.canterbury.ac.nz/library/uc-library-news/2020/visualise-your-thesis-competition.html"> Local University Heat </a> </h3>
-            <div class="subheading mb-3"> University of Canterbury </div>
-            <div> 1-minute long video to explain my thesis topic. Entry Highly Commended.</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2020 </span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">PhD Scholarship  </a> </h3>
-            <div class="subheading mb-3"> University of Canterbury <a href="https://www.canterbury.ac.nz/">(UC)</a> - National Institute of Water and Atmospheric Research <a href="https://niwa.co.nz/">(NIWA)</a>  </div>
-            <div> Join-Programme, 3-Year Scholarship.</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2019-2022 </span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0"> M.Sc. Thesis Research Grant </a> </h3>
-            <div class="subheading mb-3"> Mediterranean Institute of Oceanography <a href="https://www.mio.osupytheas.fr/en"> (MIO)</a>  - Aix-Marseille University </div>
-            <div> 5-Month Scholarship. </div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"> 2018 </span>
-          </div>
-        </div>
+          <p class="mb-2"></p> <b> Eddy-driven uplift on the continental shelfbreak</b> 
+	  <p class="mb-0"></p>A space-time plot shows that cold-core (cyclonic) eddies can uplift cold waters onto the shelf causing negative temperature anomalies of -1.5oC, which might bring nutrient-rich waters onto the shelf and increase producticvity. These eddies might also play an important role in cooling down the shelf break during marine heat events, especially for expected future warmer climates.</p> 
+          
+          <!--          
+           <p><a href="https://www.nature.com/articles/s41598-021-89222-3">
+          -->
+           <img width="1120" src="c3fig14.png" alt="" />
+	  <p class="mb-2"></p> <i> Space-time plot of 100-m high-pass filtered (90 days) temperature time-anomaly along the 200-m isobath from DA run. Tracks of coastal (black) and slope (blue) cyclones, and anticyclones (red) that encroach (solid lines) onto the shelfbreak (200-m isobath) or translated away (dotted lines) from that isobath are shown. Location of the sections and neighbouring regions are shown along the y-axis. The acronyms A1, C1, EAuC, A1, A2/C2, and C2 represent the presence of mesoscale structures studied in <a href="https://www.nature.com/articles/s41598-021-89222-3">Santana et al., (2021)</a> </i> 
 
       </div>
+
     </section>
 
+        </section>
 
-    <hr class="m-0">
+          <!--
+          <hr class="m-0">
+           -->
 
+          <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="uoa_work">
+            <div class="w-100">
+              <h2 class="mb-5">Polar science</h2>
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
-      <div class="w-100">
-        <h2 class="mb-5">Education</h2>
+          <p class="mb-0">I started to study polar regions as a research fellow at <a href="https://www.auckland.ac.nz/en/science/about-the-faculty/department-of-physics.html/">The University of Auckland</a>, where I worked on the Scale-Aware Sea Ice Project <a href="https://sasip-climate.github.io/">(SASIP)</a>. I targeted at understanding ocean-ice interactions around Antarctica using the sea-ice model <a href="https://tc.copernicus.org/articles/10/1055/2016/">neXtSIM</a>. An example of neXtSIM's application is shown in the video below (credit: <a href="https://www.nersc.no/">Nansen Environmental and Remote Sensing Center</a>).</p>
 
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">PhD Student</h3>
-            <div class="subheading mb-3">University of Canterbury, NEW ZEALAND</div>
-            <div>Marine Ecology - How light is impacting valuable marine ecosystems - Use of Remote Sensing - Having fun in NZ</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">September 2019 - Now </span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Masters of Oceanography - Marine Biology and Ecology specialty</h3>
-            <div class="subheading mb-3"> Aix-Marseille University, FRANCE</div>
-            <div> Focus in Ecologial Modelling - Theoretical Ecology - Statistics - Nerdish but still on the outdoors</div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2015 - 2018</span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Bachelor of Science - Biogeochemical and Physical Oceanography specialty </h3>
-            <div class="subheading mb-3"> Aix-Marseille University, FRANCE </div>
-            <div> Dynamics of the Ocean - Physical equations - Applied Mathematics - Growing interest in Ecology and Modelling </div>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">2012 - 2015</span>
-          </div>
-        </div>
+	  <iframe width="1120" height="630" src="https://www.youtube.com/embed/cFfQsu6xWZ4" title="neXtSIM sea ice model simulation in Fram Strait" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>Sea ice concentration in Fram Strait simulated by the Lagrangian sea ice model neXtSIM. Credit: Nansen Environmental and Remote Sensing Center. </i>
 
 
+          <p class="mb-0"></p></p>
+          <p class="mb-2"></p> <b> Antarctic neXtSIM  </b>
+          <p class="mb-0"></p>My collaborators and I have implemented an Antartic version of neXtSIM which has been thoroughly validated <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2024MS004584">(Santana et al., 2025)</a>. In this study, we compare two versions of neXtSIM in this study using a modified Viscous-Elastic-Plastic (mEVP - used in climate models) and a Brittle Bigham-Maxwell rheology (science of material deformation). In the the mEVP run, sea ice fails to represent observed sea ice fractures (video below). The BBM run improves the representation of sea ice at any given day compared to the mEVP rheology, and is able to generate fractures forced by atmospheric events.</p>
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+	  <iframe width="1120" height="630" src="https://www.youtube.com/embed/HTGyn8X32SI" title="Antarctic Sea Ice Drift (km/day) - Obs x EVP model x Brittle model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <!--          
+	  <iframe width="1120" height="630" src="https://www.youtube.com/embed/HTGyn8X32SI" title="Antarctic Sea Ice Drift (km/day) - Obs x EVP model x Brittle model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          -->
+          <!--          
+          <iframe width="1120" height="630" src="https://www.youtube.com/embed/kitfzB9F5JM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          -->
+          <p class="mb-2"></p> <i>Daily Antarctic sea ice concentration from the modified Viscous-Elastic-Plastic run (mEVP - left) and the Brittle Bigham-Maxwell run (BBM - right).</i>
+          <p class="mb-2"></p> <i></i>
+          <p class="mb-2"></p> <i></i>
+
+          <p class="mb-0"></p>Cyclones break sea ice more effectively in the brittle model (BBM run) which generates more leads (linear fractures in sea ice). During winter, more sea ice tends to form in the BBM run compared to the mEVP run (video below). During the melting season, these leads might generate faster melting as broken ice / smaller parcels of ice tend to melt fast compared to larger parcels. This might be better reproduced in coupled ice-ocean models which is the focus of future research.</p>
+          <!--          
+          For youtube videos you need to click share on the video and choose option embed
+          -->
+	  <iframe width="1120" height="630" src="https://www.youtube.com/embed/C-kFC9-jrV4" title="Antarctic Sea Surface Ice Growth (m/day) - EVP model x Brittle model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <p class="mb-2"></p> <i>6-hourly Antarctic sea ice growth (m/day) from the modified Viscous-Elastic-Plastic run (mEVP - left), and the Brittle Bigham-Maxwell run (BBM - right).</i>
+          <p class="mb-2"></p> <i></i>
+          <p class="mb-2"></p> <i></i>
+
+
+          <!--          
+          <img src="map-ssh-2015-2016-2.gif" alt="Left: Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right: Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map." /> 
+          <p class="mb-2"></p> <b>Figure caption: Left - Map of Sea Surface Height (AVISO = black countors; Model = shade), geostrophic currents (AVISO = blue arrows; Model = black arrows), and in situ velocities (red, cyan, blue and yellow arrows). Right - Cross-section of temperature (In situ = coloured contours; Model = shade). The cross-section location is shown by the grey line on the map. </b>
+          <p class="mb-0"></p></p>
+
+          -->
 
       </div>
     </section>
 
-    <hr class="m-0">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
-      <div class="w-100">
-        <h2 class="mb-5">Skills</h2>
 
-        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-        <ul class="list-inline dev-icons">
-          <li class="list-inline-item">
-            <i class="fab fa-r-project"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-github"></i>
-          </li>
-          <li class="list-inline-item">
-            <i class="fab fa-python"></i>
-          </li>
-        </ul>
-
-        <div class="subheading mb-3">Mathematical Modelling</div>
-        <ul class="fa-ul mb-0">
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Dynamical Systems Analysis (ODE, PDE, SDE)</li>
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Bifurcation Theory</li>
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Analytical and Numerical Resolution</li>
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            Application in Ecology </li>
-        </ul>
-     
-
-       <div class="subheading mb-3">Statistics</div>
-       <ul class="fa-ul mb-0">
-         <li>
-           <i class="fa-li fa fa-check"></i>
-           Multivariate Analysis</li>
-         <li>
-           <i class="fa-li fa fa-check"></i>
-           Spatial Stats (Kriging)</li>
-         <li>
-           <i class="fa-li fa fa-check"></i>
-           Classification</li>
-       </ul>
-
-       <div class="subheading mb-3">R Coding</div>
-       <ul class="fa-ul mb-0">
-         <li>
-          <i class="fa-li fa fa-check"></i>
-          Data tidying - tidyr and dplyr </li>
-         <li>
-           <i class="fa-li fa fa-check"></i>
-           Data visualisation - ggplot2</li>
-         <li>
-           <i class="fa-li fa fa-check"></i>
-           Shiny App maker - shiny</li>
-       </ul>
-
-      </div>
-    </section>
-
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
-      <div class="w-100">
-        <h2 class="mb-5">Experience</h2>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">RANGER</h3>
-            <div class="subheading mb-3">Calanques National Park, Marseille - France</div>
-            <p>Ranger during peak season in a french national park. Tasks included rasing awareness to the  general public about ecological and cultural value of the park. Sensibilisation to risks. Observation and report of flora/fauna as well as usages in the park. Patrol on land and at sea.</p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">June 2018 - July 2018</span>
-          </div>
-        </div>
-
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">Masters Thesis</h3>
-            <div class="subheading mb-3">Aix-Marseille University - Mediterranean Institue of Oceanography</div>
-            <p>INCOMING.</p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">January 2018 - July 2018</span>
-          </div>
-        </div>
-  -->
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 class="mb-0">More things coming soon ...</h3>
-            <h3 class="mb-0">Can't wait? Get in touch via email rafacsantana@gmail.com</h3>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary">Before</span>
-          </div>
-        </div>
-
-      </div>
     </section>
 
 
